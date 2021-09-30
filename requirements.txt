@@ -1,0 +1,5 @@
+fake-useragent
+beautifulsoup4
+pandas
+sklearn
+seaborn
